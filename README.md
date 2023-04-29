@@ -6,8 +6,8 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ## Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://www.frontendmentor.io/solutions/easy-bank-landing-page-QNcX2R-4je](https://www.frontendmentor.io/solutions/easy-bank-landing-page-QNcX2R-4je)
+-   Live Site URL: [https://easybank-landing-page-na.vercel.app](https://easybank-landing-page-na.vercel.app)
 
 ## Built with
 
