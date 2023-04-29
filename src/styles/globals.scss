@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        overflow-x: hidden;
+    }
+
+    section {
+        @apply px-5 md:px-0 md:pl-24 py-5 pb-20 md:pb-0;
+    }
+}
+
+@layer components {
+    .btn {
+        @apply bg-gradient-to-r from-Lime_Green to-Bright_Cyan py-2 px-5 rounded-full text-white capitalize font-semibold text-sm transition-all hover:-translate-y-1;
+    }
+}
